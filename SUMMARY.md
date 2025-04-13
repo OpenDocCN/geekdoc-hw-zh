@@ -3,6 +3,7 @@
 +   [面向 Arduino 爱好者的 Arduino 指南](docs/ardu-ardu/README.md)
 +   [Arduino 发明者指南](docs/ardu-invt-gd/README.md)
 +   [Arduino 游乐场](docs/ardu-plgd/README.md)
++   [Arduino 项目手册](docs/ardu-proj-hb/README.md)
 +   [Arduino 项目手册卷二](docs/ardu-proj-hb-vol2/README.md)
 +   [Arduino 研讨会第二版](docs/ardu-ws-2e/README.md)
 +   [64 位汇编的艺术卷一](docs/art-64b-asm-vol1/README.md)
